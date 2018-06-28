@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+body{
+font-family:"Noto Sans", "Noto Sans TC";
+background:rgb(255, 255, 201,70%);
+h1:
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family:inherit;
+	
+}
+
+#mainNav{
+	font-family:inherit;
+	background-color:rgba(230,167,86,.9);
+}
+
+.site-heading{
+	font-family:inherit;
+}
+
+#mainNav .navbar-nav .nav-item.active .nav-link{
+	color:#FFFFC9;
+}
+
+.site-heading-lower{
+	color:#e6a756;
+}
+
+.footer{
+	background-color:rgba(230,167,86,.9);
+}
